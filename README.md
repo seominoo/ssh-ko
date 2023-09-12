@@ -43,4 +43,4 @@ echo -e "${cyan}          \|__|        \|_______|              \|__|            
 echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
-echo -e "${cyan}i am 404 😎 ${plain}"
+echo -e "${cyan}i am ko 😎 ${plain}"
