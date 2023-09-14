@@ -32,9 +32,11 @@ echo "
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
-</font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
-useradd "404" --shell=/bin/false -M
-echo "404:404" | chpasswd
+
+#အနည်ပြောင်းရန် "
+Username= "0001"
+Password= "0001"
+
 
 echo ""
 
